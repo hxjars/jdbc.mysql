@@ -1,8 +1,15 @@
 {
-  "name": "jdbc-mysql",
-  "classPath": "src",
-  "dependencies": {},
-  "tags": ["jdbc", "mysql"],
-  "contributors": ["back2dos"],
-  "license": "GPL"
+	"name": "jdbc-mysql",
+	"license": "GPL",
+	"tags": [
+		"jdbc",
+		"mysql"
+	],
+	"classPath": "src",
+	"contributors": [
+		"back2dos"
+	],
+	"releasenote": "First release.",
+	"version": "5.0.8",
+	"dependencies": {}
 }
